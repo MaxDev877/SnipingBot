@@ -3,7 +3,7 @@
 ## Overview
 
 Welcome to the **Arbitrage Trading Bot** repository! This project is designed to automate arbitrage trading between two popular decentralized exchanges, **Uniswap** and **Sushiswap**. 
-The main component of this project is the `SnipingBot.sol`, which serves as the core arbitrage bot.
+The main component of this project is the `SnipingBot.sol`, which serves as the core arbitrage bot. The PDM and GPM are optional, but they can be very helpful when deploying the contract.
 
 In addition to the arbitrage bot, the project includes two essential monitoring tools:
 - **Price Discrepancy Monitor (PDM)**: Monitors price differences between Uniswap and Sushiswap, alerting users to potential arbitrage opportunities.
