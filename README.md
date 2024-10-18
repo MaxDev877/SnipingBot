@@ -44,8 +44,3 @@ For any inquiries or contributions, please contact me through my GitHub profile 
 <div align="center">
   Copyright©2024 MaxDev877. All rights reserved.
 </div>
-<p align="center">
-  <strong style="font-size: 24px;">Welcome to the Future!</strong><br><br>
-  Explore, innovate, and embrace the world of endless possibilities.<br><br>
-  <a href="#" style="background-color: #FF5733; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Get Started</a>
-</p>
