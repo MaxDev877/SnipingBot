@@ -42,5 +42,7 @@ Feel free to reach out with questions or feedback!
 For any inquiries or contributions, please contact me through my GitHub profile or email: grecumaxim6@gmail.com.
 ##
 <div align="center">
-  Copyright©2024 MaxDev877. All rights reserved.
+  <h3><strong>Copyright©2024 MaxDev877</strong></h3>
+  <p><strong>All rights reserved.</strong></p>
+  <hr>
 </div>
