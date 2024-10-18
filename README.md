@@ -44,3 +44,15 @@ For any inquiries or contributions, please contact me through my GitHub profile 
 <div align="center">
   Copyright©2024 MaxDev877. All rights reserved.
 </div>
+
+<div align="center" style="border: 2px solid #FF5733; padding: 20px; border-radius: 15px; background: linear-gradient(135deg, #ff9a8b, #ff6a88, #ff99ac); box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2); max-width: 400px; margin: auto;">
+  <h2 style="color: #fff; font-family: 'Montserrat', sans-serif; font-size: 24px; letter-spacing: 1px; text-transform: uppercase;">
+    Welcome to the Future!
+  </h2>
+  <p style="color: #fff; font-size: 16px; font-family: 'Arial', sans-serif;">
+    Explore, innovate, and embrace the world of endless possibilities. Keep pushing the limits!
+  </p>
+  <a href="#" style="background-color: #FF5733; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; font-family: 'Arial', sans-serif; font-size: 14px;">
+    Get Started
+  </a>
+</div>
