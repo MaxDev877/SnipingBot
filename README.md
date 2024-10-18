@@ -44,4 +44,3 @@ For any inquiries or contributions, please contact me through my GitHub profile 
 <div align="center">
   Copyright©2024 MaxDev877. All rights reserved.
 </div>
-##
